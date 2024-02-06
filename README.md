@@ -4,6 +4,7 @@ Exploring Self-Supervised Models for Depressive Disorder Detection: A Study on S
 
 
 Codes (Depression Classification task in Indic-Bengali Language):
+---
 - **pre-process/augmentation.py:** data augmentation technique with window size of 3 sec and an overlap of 50% to divide the audio into several segments.
 - **pre-process/features.py:** extract mfcc and mel-spectrogram features.
 -  **HubERT.py:** train and test with pre-trained Hubert network and classify with ML classifiers.
