@@ -2,7 +2,7 @@
 import pandas as pd
 import os
 
-folder_path = '/home/bubai/Desktop/pre-trained/New folder/'  # data path 
+folder_path = 'F:/Dipression_data/DN-BENGAL_DATA/New folder (2)/'  # data path 
 audio = os.listdir(folder_path)
 
 # CREATE FUNCTION TO EXTRACT EMOTION NUMBER, ACTOR AND GENDER LABEL
