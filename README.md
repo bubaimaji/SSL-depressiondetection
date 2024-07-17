@@ -15,3 +15,7 @@ Codes (Depression Classification tasks in Indic-Bengali Language):
 Dataset:
 ---
 The dataset will be made accessible upon request soon.
+
+-----------
+Contact: bubaimaji51@gmail.com 
+-----------------------
